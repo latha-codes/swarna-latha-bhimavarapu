@@ -13,7 +13,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♀️ About Me
 
-I'm **Swarnalatha Bhimavarapu**, a Senior Data Engineer with **10+ years of experience** designing and delivering enterprise-grade data platforms across healthcare, hospitality, and retail domains. I specialize in **Snowflake**, **dbt**, and **cloud-native ETL pipelines** that are fast, scalable, and built to last.
+I'm **Swarna Bhimavarapu**, a Senior Data Engineer with **10+ years of experience** designing and delivering enterprise-grade data platforms across healthcare, hospitality, and retail domains. I specialize in **Snowflake**, **dbt**, and **cloud-native ETL pipelines** that are fast, scalable, and built to last.
 
 - ❄️ Snowflake obsessive — from Snowpipe to RBAC, I've done it all
 - 🏗️ I've migrated legacy DB2, Netezza & Oracle workloads to modern cloud warehouses
