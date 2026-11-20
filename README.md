@@ -1,6 +1,6 @@
 <!-- SECTION G: VISITOR COUNTER -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swarna-latha-bhimavarapu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=swarna-bhimavarapu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- SECTION A: ANIMATED HEADER -->
